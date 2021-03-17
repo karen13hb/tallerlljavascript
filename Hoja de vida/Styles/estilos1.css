@@ -1,0 +1,18 @@
+.centrar{
+	text-align: center;
+}
+
+h4{
+	background-color:A7C0E7; 
+	color:white;
+}
+
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+#color{
+background-color:A7C0E7;
+color:black;
+}
